@@ -2,7 +2,7 @@
 Hello i'm Mahzuz Hazman, Currently majoring in informatics Institut Teknologi Nasional. 
 
 - 👀 I’m interested in Mobile and Data Science
-- 🌱 I’m currently learning about Mobile Develeping.
+- 🌱 I’m currently learning about Mobile Developing.
 
 ---
 
