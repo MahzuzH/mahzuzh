@@ -1,11 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mahzuz Hazman</h1>
-<h3 align="center">Currently majoring in informatics Institut Teknologi Nasional</h3>
+### Hi there 👋
+Hello i'm Maleakhi Ekklesia, an Informatics student. I am an active, critical, disciplined, capable person
+work individually as well as in a team, happy to learn new things, and easy to adapt. Not only
+I am also proficient in operating several programming languages.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mahzuz_hazman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahzuz_hazman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCmnX4ZrIwPN7spPQ8zKRCpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhzzzz" height="30" width="40" /></a>
-</p>
+- 💬 I'm a final year student at the Bandung National Institute of Technology.
+- 🌱 I’m currently learning about Data Science and Engineering.
+- 👯 I'm very interested in studying data.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### :mailbox:How to reach me :
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/maleakhi-ekklesia-4683a6217/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://api.whatsapp.com/send/?phone=6285794242709&amp;text&amp;app_absent=0">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+   <a href="mailto:ekiputra234@gmail.com?s">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+</div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div id="badges" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>
+</div>
+
+
+---
+### 🔥 My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleakhiE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
