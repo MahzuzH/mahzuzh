@@ -1,24 +1,19 @@
 ### Hi there 👋
-Hello i'm Maleakhi Ekklesia, an Informatics student. I am an active, critical, disciplined, capable person
-work individually as well as in a team, happy to learn new things, and easy to adapt. Not only
-I am also proficient in operating several programming languages.
+Hello i'm Mahzuz Hazman, Currently majoring in informatics Institut Teknologi Nasional. 
 
-- 💬 I'm a final year student at the Bandung National Institute of Technology.
-- 🌱 I’m currently learning about Data Science and Engineering.
-- 👯 I'm very interested in studying data.
+- 👀 I’m interested in Mobile and Data Science
+- 🌱 I’m currently learning about Mobile Develeping.
 
 ---
 
 ### :mailbox:How to reach me :
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/maleakhi-ekklesia-4683a6217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://api.whatsapp.com/send/?phone=6285794242709&amp;text&amp;app_absent=0">
+    <a href="https://api.whatsapp.com/send/?phone=6281322670257&amp;text&amp;app_absent=0">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-   <a href="mailto:ekiputra234@gmail.com?s">
+   <a href="mailto:mahzuzhazman@gmail.com?s">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
@@ -40,4 +35,4 @@ I am also proficient in operating several programming languages.
 
 ---
 ### 🔥 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleakhiE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahzuzH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
