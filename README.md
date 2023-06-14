@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello i'm Mahzuz Hazman, Currently majoring in informatics Institut Teknologi Nasional. 
+Hello i'm Mahzuz Hazman, Currently majoring Informatics at the Bandung National Institute of Technology. 
 
 - 👀 I’m interested in Mobile and Data Science
 - 🌱 I’m currently learning about Mobile Developing.
