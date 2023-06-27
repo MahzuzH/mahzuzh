@@ -3,11 +3,7 @@
 <h3 align="center">I'm an Informatics Student in Bandung National Institute of Technology, and I'm very passionate and dedicated to my work.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRrNHhjbXNscDZyNXVhZG9jYmI2ZmRrd3VsYmFweXNmamdlMTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahzuzh&label=Profile%20views&color=0e75b6&style=flat" alt="mahzuzh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/richnjoss" target="blank"><img src="https://img.shields.io/twitter/follow/richnjoss?logo=twitter&style=for-the-badge" alt="richnjoss" /></a> </p>
-
-- 🔭 I’m currently working on [My personal website](https://mahzuzh.netlify.app/)
+- 🔭 I’m currently working on [My personal website](https://mahzuzh.vercel.app/)
 
 - 🌱 I’m currently learning **React and NextJS**
 
