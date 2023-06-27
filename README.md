@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am RichNjoss**
 
-- 🤝 I’m looking for help with **s**
+- 🤝 I’m looking for collaboration!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
