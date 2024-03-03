@@ -20,7 +20,7 @@
 <a href="https://twitter.com/richnjoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richnjoss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahzuz-hazman-b6951627b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahzuz-hazman-b6951627b" height="30" width="40" /></a>
 <a href="https://instagram.com/mahzuz_hazman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahzuz_hazman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mhzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhzzzz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmnX4ZrIwPN7spPQ8zKRCpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhzzzz" height="30" width="40" /></a>
 </p>
 
 
