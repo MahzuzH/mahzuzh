@@ -3,15 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRrNHhjbXNscDZyNXVhZG9jYmI2ZmRrd3VsYmFweXNmamdlMTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 
-- 🔭 I’m currently working on [My personal website](https://mhzhzmn.cloud/)
+- 🔭 I’m currently working on [Data Engineer Bootcamp by DataTalks.club](https://mhzhzmn.cloud/)
 
 - 🌱 I’m currently learning **React and NextJS**
 
-- 💬 Ask me about **Dart, ML**
-
 - 📫 How to reach me **mahzuzhazman@gmail.com**
-
-- ⚡ Fun fact **I am RichNjoss**
 
 - 🤝 I’m looking for collaboration!
 
