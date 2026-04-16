@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahzuz Hazman</h1>
 <h3 align="center">I'm an Informatics Student in Bandung National Institute of Technology, and I'm very passionate and dedicated to my work.</h3>
 
-- 🔭 I’m currently working on [Data Engineer Bootcamp by DataTalks.club](https://github.com/DataTalksClub/data-engineering-zoomcamp)
-
 - 🌱 I’m currently learning **React and NextJS**
 
 - 📫 How to reach me **mahzuzhazman@gmail.com**
